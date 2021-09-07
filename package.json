@@ -1,0 +1,27 @@
+{
+  "name": "forge-playground",
+  "version": "1.0.0",
+  "description": "Just a playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyrisIT/node-forge-playground.git"
+  },
+  "keywords": [
+    "node",
+    "node-forge",
+    "forgejs"
+  ],
+  "author": "Lyris IT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyrisIT/node-forge-playground/issues"
+  },
+  "homepage": "https://github.com/LyrisIT/node-forge-playground#readme",
+  "dependencies": {
+    "node-forge": "^0.10.0"
+  }
+}
